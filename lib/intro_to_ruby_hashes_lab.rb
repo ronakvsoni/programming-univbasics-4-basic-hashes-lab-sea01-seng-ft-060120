@@ -4,8 +4,8 @@ end
 p new_hash
 
 def my_hash
-   { :Jennifer_Lopez => "Waiting for tonight",
-  :Michel_Jackson => "Beat it" }
+   { Jennifer_Lopez: "Waiting for tonight",
+  Michel_Jackson: "Beat it" }
 end
 p my_hash
 
